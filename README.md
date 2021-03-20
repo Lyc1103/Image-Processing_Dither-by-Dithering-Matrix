@@ -64,13 +64,13 @@
         <td>=
         <td>{
         <td>255
-        <td>if I(i, j) >  D(i, j)
+        <td>if  I( i, j ) >  D( i, j )
       <tr>
         <td>
         <td>
         <td>{
         <td>0
-        <td>if I(i, j) <=  D(i, j)
+        <td>if  I( i, j ) < =  D( i, j )
    </table>
  
 ## Step 3 : <br>
